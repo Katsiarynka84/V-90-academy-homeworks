@@ -1,8 +1,8 @@
 
 
-a = int(input("Введите а "))
-b = int(input("Введите b "))
-c = input("Введите оператор ")
+a = int(input())
+b = int(input())
+c = input()
 if c == '/':
     if b == 0:
         print('На ноль делить нельзя')
