@@ -1,0 +1,5 @@
+a = float(input())
+b = float(input())
+integer = int(a / b)
+rest = int(a - integer * b)
+print(integer, ',', rest)
