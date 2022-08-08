@@ -1,1 +1,0 @@
-print('hello, dolly!', '-', sep = '*')
